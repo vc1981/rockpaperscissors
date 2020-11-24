@@ -1,2 +1,2 @@
 # rockpaperscissors
-Hyperskipp Rock-Paper-Scissors project solution
+Hyperskill Rock-Paper-Scissors project solution
